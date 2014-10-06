@@ -1,7 +1,5 @@
 <project>
     <artefact>
-        <url>git@github.com:markjandrews/packager.git</url>
-        <path>projects/test/manifest.xml</path>
         <name>test</test>
         <version>1.0</version>
     </artefact>
